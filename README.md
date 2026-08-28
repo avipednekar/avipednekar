@@ -17,7 +17,7 @@
   <a href="https://github.com/avipednekar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/_avi_pednekar_04">
+  <a href="https://instagram.com/avinashpednekar_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
