@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Avinash%20Pednekar&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%20%26%20Cloud&descFontSize=18&descAlignY=60&fontColor=ffffff" width="100%" alt="Avinash Pednekar Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Avinash%20Pednekar&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AI%20and%20Cloud&descFontSize=18&descAlignY=60&fontColor=ffffff" width="100%" alt="Avinash Pednekar Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Java+%26+Spring+Boot+Engineer;MERN+Stack+%26+Next.js+Builder;AI+Integration+%26+Cloud+Enthusiast;Problem+Solver+%7C+DSA+in+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Java+and+Spring+Boot+Engineer;MERN+Stack+and+Next.js+Builder;AI+Integration+and+Cloud+Enthusiast;Problem+Solver+%7C+DSA+in+Java" alt="Typing SVG" />
   </a>
 </div>
 
