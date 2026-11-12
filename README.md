@@ -1,5 +1,8 @@
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Avinash%20Pednekar&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%7C%20Cloud%20%26%20Applied%20AI&descFontSize=18&descAlignY=57&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Avinash Pednekar — Software Developer | Cloud &amp; Applied AI" />
+</p>
+
+<div align="center">
   <h1>Hi, I'm Avinash 👋</h1>
   <p><strong>Backend &amp; Full-Stack Engineering · Cloud Infrastructure · Applied AI</strong></p>
   <p>
@@ -222,6 +225,4 @@ Interested in discussing an internship, an entry-level software role, or one of 
 <div align="center">
   <br />
   <img src="https://komarev.com/ghpvc/?username=avipednekar&color=1D4ED8&style=flat-square&label=PROFILE+VIEWS" alt="GitHub profile views" />
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=100&section=footer" width="100%" alt="Blue and cyan wave footer" />
 </div>
