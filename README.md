@@ -1,173 +1,102 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Avinash%20Pednekar&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AI%20and%20Cloud&descFontSize=18&descAlignY=60&fontColor=ffffff" width="100%" alt="Avinash Pednekar Banner" />
-</div>
+# Avinash Pednekar
 
-<br/>
+**Software Developer · Backend & Full-Stack Engineering · Cloud & Applied AI**
 
-<div align="center">
-  <a href="https://linkedin.com/in/avinash-pednekar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:avinashpednekar431@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/Avinashp2004">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/avipednekar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/avinashpednekar_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+Final-year B.Tech Computer Science and Engineering student at **KIT's College of Engineering, Kolhapur**. I build applications that connect backend APIs, databases, cloud infrastructure, and machine learning—from an AWS uptime monitor to an AI recruitment platform and a multimodal deepfake research studio.
 
-<br/>
+**Open to software development internships and entry-level roles**, with a focus on Java/Spring Boot, Python, and full-stack development.
+
+[LinkedIn](https://linkedin.com/in/avinash-pednekar) · [Email](mailto:avinashpednekar431@gmail.com) · [LeetCode](https://leetcode.com/u/Avinashp2004)
 
 ---
 
-### 💫 About Me
+## Featured Projects
 
-```yaml
-Name: Avinash Manohar Pednekar
-Education: B.Tech in Computer Science & Engineering (KIT's College of Engineering Kolhapur) | CGPA: 8.4 (2023 - 2027)
-Primary Focus: Java, Spring Boot, React.js, Node.js, REST APIs, Database Systems & AI Solutions
-Core Strengths: Data Structures & Algorithms, Object-Oriented Design, Secure Authentication (JWT, Argon2), ACID Transactions
-Seeking: Software Development Internships & Full-Stack Engineering Opportunities
-```
+### [PulseCheck — Cloud Uptime Monitoring Platform](https://github.com/avipednekar/Pulse-Check)
 
-- 🎓 **Undergraduate:** Computer Science & Engineering at **KIT's College of Engineering Kolhapur** *(CGPA: 8.4)*
-- 💻 **Backend & Microservices:** Building resilient RESTful services with **Java**, **Spring Boot**, **Spring Security**, and **Node.js / Express.js**
-- 🌐 **Frontend Development:** Crafting modern responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**
-- 🤖 **AI & Cloud Integration:** Experience embedding **Gemini API** and **sentence-transformer embeddings** for intelligent candidate matching and smart automation
-- 🔒 **Security & DevOps:** Proficient with **JWT Auth**, **Argon2 hashing**, **RBAC**, **Flyway migrations**, **Git/GitHub**, **Google Cloud**, and **Linux**
-- 🧠 **Problem Solving:** Actively solving algorithmic challenges on [LeetCode](https://leetcode.com/u/Avinashp2004)
+**Python · Flask · PostgreSQL · AWS · Terraform · Docker · GitHub Actions**
 
----
+An end-to-end monitoring project covering application development, infrastructure provisioning, automated delivery, and operational alerts.
 
-### 🚀 Featured Projects
+- Built scheduled availability and latency checks every **10 minutes**, rolling **24-hour uptime** calculations, REST APIs, and a Chart.js dashboard.
+- Provisioned a VPC, public/private subnets, EC2, private RDS PostgreSQL, ECR, and IAM roles using **Terraform**.
+- Automated linting, pytest checks, container builds, and EC2 deployment through **GitHub Actions**, with temporary SSH access revoked by a cleanup step.
+- Added **CloudWatch and SNS alerts** for CPU utilization and instance health; packaged the application in a non-root Docker image served by Gunicorn.
 
-#### 🏦 [Online Banking System](https://github.com/avipednekar/Online-Banking-System)
-> *Tech Stack:* `Spring Boot` • `React.js` • `PostgreSQL` • `Spring Security` • `JWT` • `Argon2` • `Flyway`
-- Built a secure full-stack banking platform supporting onboarding, real-time balance tracking, and account-to-account money transfers.
-- Hardened endpoints with Spring Security, JWT authentication, input validation, and Argon2 password hashing.
-- Modeled relational database architecture in PostgreSQL with Flyway migrations, enforcing ACID transaction boundaries to prevent concurrency race conditions.
+### Multimodal Deepfake Detection Studio
 
-#### 💼 [Job Recruitment Platform](https://github.com/avipednekar/Job-Recruitment)
-> *Tech Stack:* `Node.js` • `Express.js` • `MongoDB` • `Python` • `Flask` • `Gemini API` • `Sentence Transformers`
-- Full-stack hiring platform connecting job seekers and recruiters through AI-driven resume parsing and candidate-job matching.
-- Developed an AI microservice utilizing sentence-transformer embeddings and Gemini API for ATS resume scoring and skill-gap recommendations.
-- Implemented email-OTP authentication, role-based job and application management, multi-board aggregation, and personalized ranking.
+**Python · PyTorch · Flask · Xception · Wav2Vec 2.0 · AASIST · OpenCV**
 
-#### 🎓 [Training & Placement System](https://github.com/avipednekar/Training-Placement)
-> *Tech Stack:* `Express.js` • `Node.js` • `React.js` • `MongoDB` • `REST APIs` • `Postman`
-- Centralized web application designed to streamline campus placement drives for educational institutions, supporting 100+ active student profiles.
-- Architected and tested 15+ RESTful APIs using Node.js & Express.js, featuring 2-role RBAC (Admin/Student) and 5+ normalized collections.
+A research application for examining visual manipulation and synthetic speech through multimodal inference and interactive audio diagnostics.
 
-#### 🍽️ [Restaurant AI System](https://github.com/avipednekar/restaurant-ai-system)
-> *Tech Stack:* `Java` • `AI Integration` • `Smart Billing`
-- AI-powered food saving and billing system for restaurants to reduce food waste and optimize dining operations.
+- Combined **Xception facial features**, **Wav2Vec 2.0 speech embeddings**, and a **3D/2D CNN audiovisual compatibility stream** through late fusion, with task-specific video, audio, and overall prediction heads.
+- Built a standalone audio scanner with interchangeable **Wav2Vec, AASIST, and AASIST-L** adapters; integrated a fine-tuned AASIST checkpoint selected using validation results.
+- Developed a Flask interface with model selection, overlapping-window analysis, timestamped diagnostics, recording scores and thresholds, and linked segment playback.
+- Improved preprocessing consistency, preserved model-specific score directions, and added checkpoint/provenance checks and reproducible evaluation reports.
 
----
+**Recorded benchmark:** **99.69% overall accuracy** and **0.9994 ROC AUC** on a saved FakeAVCeleb test set of **3,276 examples**. These are historical benchmark measurements; the Studio remains a research prototype, with audio generalization and calibration still in progress.
 
-### 💻 Technical Skills
+<details>
+<summary><strong>Evaluation context and current engineering focus</strong></summary>
 
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC"/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Platforms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Core CS</b></td>
-    <td>
-      <code>Data Structures & Algorithms</code> • <code>OOP</code> • <code>DBMS</code> • <code>Operating Systems</code> • <code>Computer Networks</code> • <code>SDLC</code>
-    </td>
-  </tr>
-</table>
+- The multimodal benchmark is class-imbalanced; overall balanced accuracy is approximately **99.19%**.
+- The selected fine-tuned AASIST checkpoint recorded **0.999649 validation ROC AUC** on **10,511 recordings**. Validation performance is separate from held-out deployment performance.
+- In an exploratory check of eight reserved, provisionally labeled audio clips, the selected model correctly classified **3/8** and incorrectly flagged all four provisionally genuine clips. This small check exposes transfer limitations; it is not a general accuracy estimate.
+- Current priorities are independent recording-level calibration, final held-out audio evaluation, more representative test data, and improved audiovisual alignment.
+- The November 2026 project report records **24 Python regression tests** passing for the fine-tuned integration and **17 earlier JavaScript regression tests** for result presentation. These validate software behavior, not detection accuracy.
+
+The project integrates upstream Xception, Wav2Vec 2.0, and AASIST architectures; its contributions center on the application pipeline, model adapters, diagnostics, and evaluation workflow.
+
+</details>
+
+### [AI Recruitment Platform](https://github.com/avipednekar/Job-Recruitment)
+
+**React · Node.js · Express · MongoDB · Python · Flask · Sentence Transformers · Gemini API**
+
+A recruitment application connecting candidate profiles and resumes with relevant job opportunities.
+
+- Built a **three-service architecture**: React frontend, Node.js/Express API, and a Python/Flask AI service.
+- Integrated resume parsing, semantic candidate-job matching, personalized job ranking, and Gemini-powered resume-to-job-description scoring and skill-gap recommendations.
+- Implemented **JWT authentication, email-OTP verification, and role-based access** for candidate and recruiter workflows.
+- Added application tracking, saved jobs, and recommendation fallbacks when the AI service is unavailable.
+
+### [Online Banking System](https://github.com/avipednekar/Online-Banking-System)
+
+**Java · Spring Boot · Spring Security · React · PostgreSQL · Flyway**
+
+An educational banking application focused on authentication, transaction integrity, and customer/admin workflows.
+
+- Implemented account management, KYC review, beneficiary verification, transaction history, and approval workflows for higher-value transfers.
+- Used **idempotency keys and ordered pessimistic balance locks** to support safe transfer retries and concurrent account updates, with debit/credit ledger records.
+- Added JWT access tokens, rotating refresh tokens, **Argon2id password hashing**, role-based authorization, and Flyway-managed schema migrations.
+
+**More work:** [Training & Placement System](https://github.com/avipednekar/Training-Placement) — student, company, and admin workflows with eligibility-based shortlisting and skill matching.
 
 ---
 
-### 📜 Certifications
+## Technical Skills
 
-- 🛡️ **Google Cloud Cybersecurity** — *Google* (Feb 2026)
-- 🤖 **Getting Started with AI** — *IBM* (July 2026)
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, Python, JavaScript, C++ |
+| **Backend & APIs** | Spring Boot, Spring Security, Node.js, Express.js, Flask, REST APIs, JWT, role-based access control |
+| **Frontend** | React, HTML, CSS, Tailwind CSS, Vite |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Flyway |
+| **Cloud & DevOps** | AWS: EC2, VPC, RDS, ECR, IAM, CloudWatch, SNS; Terraform, Docker, Docker Compose, GitHub Actions |
+| **AI & ML** | PyTorch, CNNs, Wav2Vec 2.0, AASIST integration, Sentence Transformers, Gemini API, scikit-learn |
+| **Testing & Tools** | pytest, JUnit, MockMvc, Jest, Postman, Git, Linux, VS Code, Google Colab, Jupyter Notebook |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, SDLC |
 
----
+## Education & Certifications
 
-### 📊 GitHub Activity & Analytics
+**B.Tech in Computer Science and Engineering**  
+KIT's College of Engineering, Kolhapur · **2023–2027 (expected)** · **CGPA: 8.4**
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=avipednekar&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Avinash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=avipednekar&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=avipednekar&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://leetcode.com/u/Avinashp2004">
-    <img src="https://leetcard.jacoblin.cool/Avinashp2004?theme=dark&font=Fira%20Code" alt="LeetCode Stats Card" width="450px" />
-  </a>
-</div>
+- **AWS Academy Graduate — Cloud Architecting** · September 2026
+- **Google Cloud Cybersecurity — Google** · February 2026
+- **Getting Started with AI — IBM** · July 2026
 
 ---
 
-<div align="center">
-  <p><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
-  <a href="https://github.com/avipednekar">
-    <img src="https://komarev.com/ghpvc/?username=avipednekar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</div>
+Interested in discussing an internship, an entry-level software role, or one of these projects?  
+**[Email me](mailto:avinashpednekar431@gmail.com)** or **[connect on LinkedIn](https://linkedin.com/in/avinash-pednekar)**.
