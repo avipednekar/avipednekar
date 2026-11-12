@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Avinash%20Pednekar&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%7C%20Cloud%20%26%20Applied%20AI&descFontSize=18&descAlignY=57&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Avinash Pednekar — Software Developer | Cloud &amp; Applied AI" />
+  <img src="https://raw.githubusercontent.com/avipednekar/avipednekar/main/assets/profile-banner.svg" width="100%" alt="Avinash Pednekar — Software Developer | Cloud &amp; Applied AI" />
 </p>
 
 <div align="center">
